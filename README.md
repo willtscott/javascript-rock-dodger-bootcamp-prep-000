@@ -4,7 +4,7 @@ JavaScript Rock Dodger
 ## Objectives
 
 1. Use JavaScript to build a rock-dodging game
-2. Explain how `window.requestAnimationFrame()` is used to animate movement on a page
+2. how `window.requestAnimationFrame()` is used to animate movement on a page
 3. Explain how to use `setInterval()`
 4. Show off your JavaScript know-how
 
